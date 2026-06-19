@@ -1,6 +1,4 @@
-# PC Custom Build Generator
-
-A JavaFX desktop application developed for my AQA Computer Science NEA.
+PC Custom Build Generator
 
 ## Features
 
@@ -21,4 +19,4 @@ A JavaFX desktop application developed for my AQA Computer Science NEA.
 
 The original SQL Server database containing hardware data is not included in this repository.
 
-This project was developed as a sixth form Computer Science NEA project.# PC-Custom-Build-Generator
+This project was developed as a sixth form Computer Science NEA project.
