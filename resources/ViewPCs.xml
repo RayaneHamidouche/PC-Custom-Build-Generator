@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fxml_ui.ViewPCsController">
+   <children>
+      <Text fx:id="PC5" layoutX="24.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PC 5" wrappingWidth="443.13671875" />
+      <Text fx:id="PC4" layoutX="24.0" layoutY="287.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PC 4" wrappingWidth="443.13671875" />
+      <Text fx:id="PC3" layoutX="24.0" layoutY="225.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PC 3" wrappingWidth="443.13671875" />
+      <Text fx:id="PC2" layoutX="24.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PC 2" wrappingWidth="443.13671875" />
+      <Button layoutX="467.0" layoutY="84.0" mnemonicParsing="false" onAction="#View1" prefHeight="25.0" prefWidth="55.0" text="View" />
+      <Button layoutX="467.0" layoutY="141.0" mnemonicParsing="false" onAction="#View2" prefHeight="16.0" prefWidth="55.0" text="View" />
+      <Button layoutX="467.0" layoutY="208.0" mnemonicParsing="false" onAction="#View3" prefHeight="16.0" prefWidth="55.0" text="View" />
+      <Button layoutX="467.0" layoutY="270.0" mnemonicParsing="false" onAction="#View4" prefHeight="16.0" prefWidth="55.0" text="View" />
+      <Button layoutX="467.0" layoutY="337.0" mnemonicParsing="false" onAction="#View5" prefHeight="16.0" prefWidth="55.0" text="View" />
+      <Button layoutX="505.0" layoutY="22.0" mnemonicParsing="false" onAction="#Return" text="Return" />
+      <Text fx:id="PC1" layoutX="24.0" layoutY="101.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PC 1" wrappingWidth="443.13671875" />
+   </children>
+</AnchorPane>
